@@ -50,9 +50,9 @@ Once the Skype conference is initiated, **incident manager** and **Devops** shal
 
 **PDO** shall provide business impact analysis and communicate to users and customers to mitigate the impact cased by the incident. 
 
-** Product manager ** shall be aware of potential design flaw that might case the incident
+**Product manager** shall be aware of potential design flaw that might case the incident
 
-** Project manager ** shall be analyze impact on development
+**Project manager** shall be analyze impact on development
 
 ## After P0
 
